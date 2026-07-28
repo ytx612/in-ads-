@@ -1,0 +1,6 @@
+{
+  "name": "in ads",
+  "description": "تطبيق إعلانات Start.io مع عرض تلقائي ومستمر لإعلانات Interstitial كل 1.5 ثانية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
